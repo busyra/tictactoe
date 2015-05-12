@@ -1,0 +1,16 @@
+body{
+		font-family: 'Press Start 2P', cursive;
+		text-align: center;
+}
+table{
+	margin: 0 auto;
+}
+
+td{
+	font-size: 18pt;
+	width: 150px;
+	height: 150px;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;
+}
